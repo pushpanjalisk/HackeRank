@@ -1,5 +1,5 @@
-// Title    - Java Stdin and Stdout I
-// Link     - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/submissions/code/287347103
+// Title    - 2. Java Stdin and Stdout I
+// Link     - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/
 // Solution -  as below
 
 import java.util.*;

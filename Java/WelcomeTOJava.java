@@ -1,5 +1,5 @@
 //  Title   - Welcome to Java
-//  Link    - https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/287346530
+//  Link    - https://www.hackerrank.com/challenges/welcome-to-java/
 // Solution - as below 
 
 public class WelcomeTOJava {
