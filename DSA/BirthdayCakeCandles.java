@@ -1,3 +1,7 @@
+// Title    - 2. Birthday Cake Candles
+// Link     - https://www.hackerrank.com/challenges/birthday-cake-candles/
+// Solution -  as below
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
