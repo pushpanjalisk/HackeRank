@@ -1,5 +1,5 @@
 // Title    - 5. Java Output Formatting
-// Link     - https://www.hackerrank.com/challenges/java-output-formatting/submissions/code/287967512
+// Link     - https://www.hackerrank.com/challenges/java-output-formatting/
 // Solution -  as below
 import java.util.Scanner;
 
